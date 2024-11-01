@@ -1,0 +1,72 @@
+# Copyright (C) 2023 Vai De Promo
+# This file is distributed under the same license as the Vai De Promo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vai De Promo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vai-de-promo\n"
+"POT-Creation-Date: 2023-09-08 13:47:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  vai-de-promos.pot (Vai De Promo 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-vai-de-promo-admin.php:111
+#: admin/class-vai-de-promo-admin.php:112
+msgid "Vai De Promo"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:132
+msgid "Geral"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:139
+msgid "Id de Afiliado"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:148
+msgid "Visualização dos Shortcodes"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:157
+msgid "Adicionar Logo do VaiDePromo ao final do Shortcode"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:167
+msgid "Configure o seu Id de Afiliado disponibilizado no momento do Cadastro"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:196
+#: admin/class-vai-de-promo-admin.php:223
+msgid "Habilitar"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:205
+#: admin/class-vai-de-promo-admin.php:232
+msgid "Desabilitar"
+msgstr ""
+
+#: admin/class-vai-de-promo-admin.php:247
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/vai-de-promo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Este é um plugin para afiliados do Vai De Promo. Você poderá enriquecer "
+"matérias com preços de voos que são atualizados o tempo todo"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "2XT"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.vaidepromo.com.br/"
+msgstr ""
